@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Book-Keeper](https://github.com/GigaMansion/Book-Keeper)
+- 🌱 I’m currently learning Python Flask
+- 😄 Pronouns: ウィルソン
+- ⚡ Fun fact: I have used F#!
