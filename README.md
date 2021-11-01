@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Book-Keeper](https://github.com/GigaMansion/Book-Keeper)
-- 🌱 I’m currently learning Python Flask
+- 🔭 I’m currently working on [ECEN689_Formal_Verification_Project](https://github.com/wilsonwang881/ECEN689_Formal_Verification_Project)
+- 🌱 I’m currently learning Parallel Computing and Formal Verification
 - 😄 Pronouns: ウィルソン
 - ⚡ Fun fact: I have used F#!
