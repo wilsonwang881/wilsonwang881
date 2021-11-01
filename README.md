@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Parallel Computing and Formal Verification
 - 😄 Pronouns: ウィルソン
 - ⚡ Fun fact: I have used F#!
+- 道路是曲折的，前途是光明的！
