@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [ECEN689_Formal_Verification_Project](https://github.com/wilsonwang881/ECEN689_Formal_Verification_Project)
-- 🌱 I’m currently learning Parallel Computing and Formal Verification
+- 🔭 I’m currently working on Gem5
+- 🌱 I’m currently learning Compiler Design
 - 😄 Pronouns: ウィルソン
 - ⚡ Fun fact: I have used F#!
 - 道路是曲折的，前途是光明的！
