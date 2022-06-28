@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ウィルソン
 - ⚡ Fun fact: I have used F#!
 - 🖱️: ロジクール G502 HERO, ロジクール Lift 縦型エルゴノミックマウス
-- 💻: シンクパッド T460P, マックブック プロ 13
+- 💻: シンクパッド T460P, マックブック プロ 13, iPad Pro 11
 - 🎧: Airpods Pro, オーディオテクニカ ATH-M40x, ベイヤーダイナミック DT 990 Pro
 - 道路是曲折的，前途是光明的！
