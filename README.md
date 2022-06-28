@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Gem5
-- 🌱 I’m currently learning Compiler Design
+- 🌱 I’m currently learning Gem5
 - 😄 Pronouns: ウィルソン
 - ⚡ Fun fact: I have used F#!
+- 🖱️: ロジクール G502 HERO, ロジクール Lift 縦型エルゴノミックマウス
+- 💻: シンクパッド T460P, マックブック プロ 13
 - 道路是曲折的，前途是光明的！
