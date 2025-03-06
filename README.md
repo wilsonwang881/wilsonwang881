@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Gem5
+- 🔭 I’m currently working on cache prefetching.
 - 🌱 I’m currently learning Gem5
 - 😄 Pronouns: ウィルソン
 - ⚡ Fun fact: I have used F#!
 - 🖱️: ロジクール G502 HERO, ロジクール Lift 縦型エルゴノミックマウス
 - 🎧: Airpods Pro, オーディオテクニカ ATH-M40x, ベイヤーダイナミック DT 990 Pro
-- ⌚: Apple Watch Series 4
-- 📱: iPhone 11
-- 💻: シンクパッド T460P, マックブック プロ 13, iPad Pro 11
+- 📱: iPhone 13
+- 💻: シンクパッド T460P, マックブック プロ 14, iPad Pro 11
 - 道路是曲折的，前途是光明的！
